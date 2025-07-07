@@ -26,9 +26,8 @@ Here are some of the projects I've built and deployed:
 - 🌐 [justport.netlify.app](https://justport.netlify.app)
 
 ## 📫 Connect with me
-- Email: yourname@example.com *(change this)*
-- LinkedIn: [linkedin.com/in/your-profile](#)
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- Email: kuh241337@gmail.com *(change this)*
+- GitHub: [github.com/your-username](https://github.com/DeveloperIhsanPaloli)
 
 ---
 

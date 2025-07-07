@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Ihsan Paloli]!
+# 👋 Hi, I'm Ihsan Paloli !
 
 I'm a passionate **Web Developer** on the path to becoming a **Full-Stack / MERN Stack Developer**.  
 Started my journey on **May 10, 2025**, and I’m coding every day with dedication.

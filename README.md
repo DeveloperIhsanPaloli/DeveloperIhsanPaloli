@@ -27,7 +27,7 @@ Here are some of the projects I've built and deployed:
 
 ## 📫 Connect with me
 - Email: kuh241337@gmail.com *(change this)*
-- GitHub: [github.com/DeveloperIhsanPaloli](https://github.com/DeveloperIhsanPaloli)
+- GitHub: [github.com/Ihsanpaloli123](https://github.com/Ihsanpaloli123)
 
 ---
 
